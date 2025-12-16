@@ -419,3 +419,7 @@ Universidad Nacional de Trujillo
 Si tienes preguntas o encuentras problemas, revisa la documentación o contacta al administrador del sistema.
 
 **¡Feliz aprendizaje! 🚀**
+
+
+
+https://gestion-de-cursos.streamlit.app/
