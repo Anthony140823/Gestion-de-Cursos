@@ -1,0 +1,3 @@
+# Backup del archivo original
+# Este archivo contiene el código original antes de las mejoras
+# Fecha: 2025-12-01
